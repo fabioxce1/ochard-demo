@@ -26,8 +26,10 @@ This is a custom WordPress setup that includes a personalized theme and the **Pr
 - The **Product of the Day** plugin allows managing featured products from the admin panel.
 - Add `[product_of_the_day]` to display the featured product.
 
+## Database
+
+- The database is located in the `DB` folder and is configured for MySQL.
+
 ## Support
 
 For any issues or questions, please contact **santosserranofabio@gmail.com**.
-
-
